@@ -33,13 +33,9 @@ public class Ve_Cau_3d extends JPanel{
         //vẻ viền hình tròn màu đen
         g.setColor(Color.black);
         g.drawOval(100, 100, 200, 200);
-        
-        //vẻ hình elip màu đen
-        g.drawOval(138, 175, 126, 100);
-        
-        //vẻ nền hình vuông để che bợt hình elip để tạo miệng cười
-        g.setColor(Color.green);
-        g.fillRect(130, 130, 142, 130);
+
+        //vẻ cung để tạo miện cười
+        g.drawArc(120, 105, 160, 160, 230, 80);
         
         //vẻ mắt và mũi màu đen
         g.setColor(Color.black);
