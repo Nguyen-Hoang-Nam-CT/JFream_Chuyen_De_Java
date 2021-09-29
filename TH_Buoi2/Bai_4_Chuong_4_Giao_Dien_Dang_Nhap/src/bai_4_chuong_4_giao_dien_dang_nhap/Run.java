@@ -12,6 +12,6 @@ public class Run
     {
         Bai_4_Chuong_4_Giao_Dien_Dang_Nhap frame = new Bai_4_Chuong_4_Giao_Dien_Dang_Nhap();
         frame.createGUI();
-        frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE) ;
     }
 }
