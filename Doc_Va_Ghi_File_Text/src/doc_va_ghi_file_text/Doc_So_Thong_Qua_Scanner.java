@@ -11,10 +11,6 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Admin
- */
 public class Doc_So_Thong_Qua_Scanner 
 {
     public static void main(String[] args) 
