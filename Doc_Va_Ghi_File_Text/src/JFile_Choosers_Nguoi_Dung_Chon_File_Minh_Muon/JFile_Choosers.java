@@ -30,7 +30,7 @@ public class JFile_Choosers {
                 int a;
                 do{
                     a = sc.nextInt();
-                    System.out.print(a);
+                    System.out.print("  " + a);
                 }while(sc.hasNext());
             }
         } 
