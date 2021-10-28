@@ -14,10 +14,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 
-/**
- *
- * @author Admin
- */
 public class Doc_Doi_Tuong_Nhan_Vien {
     public static void main(String[] args) 
     {

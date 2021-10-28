@@ -1,1 +1,3 @@
-97 98 99 100 96 95
+Test khả năng đọc file
+Ghi file
+Hết.
